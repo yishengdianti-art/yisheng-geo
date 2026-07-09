@@ -8,10 +8,41 @@
   ],
   "routes": [
     {
+      "src": "/cases/?",
+      "dest": "/cases.html"
+    },
+    {
+      "src": "/solutions/?",
+      "dest": "/solutions.html"
+    },
+    {
+      "src": "/price/?",
+      "dest": "/price.html"
+    },
+    {
+      "src": "/knowledge/?",
+      "dest": "/knowledge.html"
+    },
+    {
+      "src": "/about/?",
+      "dest": "/about.html"
+    },
+    {
+      "src": "/contact/?",
+      "dest": "/contact.html"
+    },
+    {
       "src": "/geo.html",
       "status": 301,
       "headers": {
-        "Location": "/knowledge.html"
+        "Location": "/knowledge"
+      }
+    },
+    {
+      "src": "/yugong.html",
+      "status": 301,
+      "headers": {
+        "Location": "/about"
       }
     },
     {
