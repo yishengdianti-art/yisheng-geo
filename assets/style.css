@@ -41,6 +41,13 @@ img { max-width: 100%; display: block; }
 }
 .header-inner { min-height: 74px; display: flex; align-items: center; gap: 24px; }
 .brand { display: flex; align-items: center; gap: 10px; min-width: 178px; color: var(--gold-2); }
+.brand-logo {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+  border-radius: 10px;
+  background: #050506;
+}
 .brand-mark {
   font-family: Georgia, serif;
   font-size: 34px;
