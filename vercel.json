@@ -46,6 +46,27 @@
       }
     },
     {
+      "src": "/case-backend-6625907048062124547.html",
+      "status": 301,
+      "headers": {
+        "Location": "/case-gushi-huaqiaomingyuan-home-elevator-case.html"
+      }
+    },
+    {
+      "src": "/case-hailiang-jiutai.html",
+      "status": 301,
+      "headers": {
+        "Location": "/case-hefei-hailiang-jiutai-home-elevator-case.html"
+      }
+    },
+    {
+      "src": "/case-jianfa-yonglongfu.html",
+      "status": 301,
+      "headers": {
+        "Location": "/case-hefei-jianfa-yonglongfu-home-elevator-auto-door-case.html"
+      }
+    },
+    {
       "src": "/",
       "dest": "/index.html"
     },
